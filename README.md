@@ -1,4 +1,3 @@
-
 # Shayar AI - Generate Ghazals with Artificial Intelligence
 
 Shayar AI is an innovative project that generates entire ghazals based on a single input word, utilizing advanced machine learning models like LSTM, GRU, and RNN. The project aims to automate the process of creating poetic couplets (shairi) in Roman Urdu, offering a creative and fun way to experience traditional Urdu poetry. The system also converts generated text into speech using Play.ht.
@@ -48,11 +47,16 @@ To get started with Shayar AI, clone the repository and follow the steps below:
 
 5. To hear the generated poetry, use the integrated Play.ht API.
 
+## Live Demo & Blog
+- 🧠 **Try the App**: [Streamlit Demo](https://shayar-ai-kxackc3nih6deiy2qgx5qq.streamlit.app/)
+- 📝 **Read the Blog**: [Introducing Shayar AI: AI-Generated Urdu Poetry](https://medium.com/@sufyanbinimran/introducing-shayar-ai-ai-generated-urdu-poetry-with-lstm-text-to-speech-efe28e9afd85)
+
 ## Contributing
 We encourage contributions to make Shayar AI even better. Feel free to fork the repository, submit issues, and create pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
 
 For more details or support, visit the [GitHub Repository](https://github.com/sufyanbinimran/Generative-AI).
